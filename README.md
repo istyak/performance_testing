@@ -36,7 +36,6 @@ The Apache JMeter application is open source software, a 100% pure Java applicat
 
 Common Elements Of JMeter
 There are mainly four common elements of JMeter.
-
 Thread,
 Samplers,
 Listeners,
