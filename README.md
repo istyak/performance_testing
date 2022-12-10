@@ -19,7 +19,9 @@ Spike testing-Spike testing tests the software's reaction to sudden large spikes
 
 Volume Testing-Under volume testing large number of data populated in the database and overall software behavior is monitored.
 
+
 Performance Testing Process
+
 Identify Test Environment.
 Plan and Design Tests.
 Identify Performance acceptance criteria.
@@ -27,6 +29,7 @@ Configure Test Environment.
 Implement Test Design.
 Execute Tests.
 Analyze and Report
+
 Example of Performance Test Cases
 Verify response time is not more than 4 secs when 1000 users access the application.(stress testing)
 Verify response time of the application under load is within an acceptable range when the network connection slow.(Stress testing)
@@ -38,6 +41,7 @@ JMeter
 The Apache JMeter application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance.
 
 Common Elements Of JMeter
+
 There are mainly four common elements of JMeter.
 Thread,
 Samplers,
