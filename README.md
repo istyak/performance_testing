@@ -1,11 +1,14 @@
 # performance_testing
 What is Performance Testing?
+
 Performance testing is defined as type of Non-functional software testing. The goal of performance testing to eliminate performance bottlenecks. The main focus of performance testing is : 1.Speed 2.Scalability 3.Stability. Performance testing is popularly called "Perf Testing".
 
 Why do performance testing?
+
 Answer: Performance testing determine Speed, Scalability and stability of the software under heavy workload.
 
-Types of performance testing
+Types of performance testing:
+
 Load Testing-Load testing checks the application's ability to perform under anticipated user loads.
 
 Stress Testing-Stress testing involves testing an application under extreme work loads to see how it handles high traffic. (Check the maximum number of user that the application can handle before it crashes)
